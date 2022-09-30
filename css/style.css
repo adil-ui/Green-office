@@ -56,6 +56,14 @@ p{
     margin: 16px 0;
     color: #5c5b5b;
 }
+.my-div i, h1{
+    display: inline;
+}
+i{
+    color: #B8CB21;
+    font-size: 22px;
+    margin-right: 5px;
+}
 div p img{
     float: left;
     margin: 0 16px 16px 0;
